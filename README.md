@@ -4,6 +4,7 @@
 I'm Long, a passionate and innately curious **Front-end Engineer** from VietNam , with a dedication for interaction and user experience. I enjoy taking on new challenges, discover emerging technologies, explore innovative solutions.
 
 👨🏻‍💻  About Me
+
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 🎓  I’m currently studying Software Engineer at HoChiMinh University Food Industry. 
 🌱  I’m on track for learning more about Graphql, urql, nodejs,...
