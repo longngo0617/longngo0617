@@ -12,6 +12,7 @@ I'm Long, a passionate and innately curious **Front-end Engineer** from VietNam 
 - 📄  Please have a look at my Résumé for more details about me. I’m open to feedback and suggestions!
 
 ## 🦸🏻‍♂️ Projects | Self-study
+✰ [LiTwitter 2021](https://litwitter-app.herokuapp.com/home)
 ✰ [Gbox Studio 2020](https://longngo0617.github.io/Gbox/)
 
 
