@@ -1,7 +1,7 @@
 
 # Hi! 👋
 
-I'm Long, a passionate and innately curious **Front-end Engineer** from VietNam , with a dedication for interaction and user experience. I enjoy taking on new challenges, discover emerging technologies, explore innovative solutions.
+I'm Long, a passionate and innately curious Software Engineer.
 
 👨🏻‍💻  About Me
 
