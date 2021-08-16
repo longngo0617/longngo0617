@@ -8,7 +8,7 @@ I'm Long, a passionate and innately curious Software Engineer.
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓  I’m currently studying Software Engineer at HoChiMinh University Food Industry. 
 - ✉️  You can shoot me an email at ngobi0617@gmail.com I’ll try to respond as soon as I can.
-- 📄  Please have a look at my Résumé for more details about me. I’m open to feedback and suggestions!
+- 📄  Please have a look at my Resume for more details about me. I’m open to feedback and suggestions!
 
 ## 🦸🏻‍♂️ Projects | Self-study
 ✰ [LiTwitter 2021](https://litwitter-app.herokuapp.com/home)
